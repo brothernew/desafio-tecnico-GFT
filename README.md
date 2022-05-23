@@ -12,7 +12,7 @@
 
 <h3>Pensamento Computacional</h3>
 <p>A capacidade criativa, crítica e estratégica de utilizar as bases computacionais nas diferentes áreas de conhecimento para a resolução de problemas.<br>
-<img src="https://www.researchgate.net/profile/Carolina-Moreira-18/publication/337223452/figure/fig1/AS:824763496800256@1573650349341/Figura-1-Pilares-do-Pensamento-Computacional-Adaptado-de-Shoop-et-al-2016.ppm" width="600" height="400" alt="pensamento computacional">
+<img src="pensamentoComp.png">
 </p>
 
 <h3>Programação Orientada a Objetos</h3>
